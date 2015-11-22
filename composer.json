@@ -1,0 +1,26 @@
+{
+	"name": "philippfrenzel/yii2-wampy",
+	"description": "jQuery Wampy Asset bundle for yii2",
+	"type": "yii2-extension",
+	"keywords": [
+		"yii2",
+		"jquery",
+		"wampy"
+	],
+	"license": "MIT Clause",
+	"authors": [
+		{
+			"name": "Philipp Frenzel",
+			"email": "philipp@frenzel.net"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"bower-asset/wampy.js": "~1.1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"net\\frenzel\\assets\\wampy\\": ""
+		}
+	}
+}
