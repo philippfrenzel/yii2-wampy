@@ -2,6 +2,8 @@
 
 Yii2 Asset wrapper for: https://github.com/KSDaemon/wampy.js/
 
+wampy is a websocket client lib in jquery comparable to autobahnJS. The usage is personally a little bit easier, so I prefered to use this instead of autobahnJS. 
+
 Installation
 ============
 Package is although registered at packagist.org - so you can just add one line of code, to let it run!
